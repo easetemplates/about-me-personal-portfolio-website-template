@@ -1,3 +1,136 @@
 @import "bootstrap/scss/functions";
 @import "./theme/variables";
 @import "bootstrap/scss/bootstrap";
+
+
+.beforeline {
+    position: relative;
+
+    &::before {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 56px;
+        position: absolute;
+        top: 50%;
+        right: 50%;
+
+    }
+}
+
+.line {
+    position: relative;
+
+    &::after {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 310px;
+        position: absolute;
+        bottom: 15px;
+        left: 40%;
+
+    }
+}
+
+.afterline {
+    position: relative;
+
+    &::after {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 826px;
+        position: absolute;
+        bottom: 15px;
+        left: 50%;
+
+    }
+}
+
+.lines {
+    position: relative;
+
+    &::before {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 380px;
+        position: absolute;
+        top: 50%;
+        right: 70%;
+
+    }
+
+    &::after {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 380px;
+        position: absolute;
+        bottom: 15px;
+        left: 70%;
+
+
+    }
+}
+
+.line1 {
+    position: relative;
+
+    &::after {
+        content: "";
+        background-color: yellow;
+        width: 826px;
+        position: absolute;
+        bottom: 15px;
+        left: 40%;
+        height: 2px;
+
+    }
+}
+
+.bothline {
+    position: relative;
+
+    &::before {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 380px;
+        position: absolute;
+        top: 50%;
+        right: 70%;
+
+    }
+
+    &::after {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 380px;
+        position: absolute;
+        bottom: 15px;
+        left: 70%;
+
+
+    }
+}
+
+.logo {
+    position: relative;
+
+    &::before {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 380px;
+        position: absolute;
+        top: 50%;
+        right: 70%;
+
+    }
+
+    &::after {
+        content: "";
+        border-top: 2px solid yellow;
+        width: 380px;
+        position: absolute;
+        bottom: 15px;
+        left: 70%;
+
+
+    }
+}
