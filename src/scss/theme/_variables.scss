@@ -16,7 +16,7 @@ $gray-600: #6c757d !default;
 $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
-$black: #000 !default;
+$black: #020617 !default;
 // scss-docs-end gray-color-variables
 
 // fusv-disable
@@ -403,54 +403,54 @@ $gradient: linear-gradient(180deg, rgba($white, 0.15), rgba($white, 0)) !default
 // scss-docs-start spacer-variables-maps
 $spacer: 1rem !default;
 $spacers: (
-  0: 0,
-  // 0px
-  1: $spacer * 0.25,
-  // 4px
-  2: $spacer * 0.5,
-  // 8px
-  3: $spacer * 1,
-  // 16px
-  4: $spacer * 1.5,
-  // 24px
-  5: $spacer * 2,
-  // 32px
-  6: $spacer * 2.5,
-  // 40px
-  7: $spacer * 3,
-  // 48px
-  8: $spacer * 3.5,
-  // 56px
-  9: $spacer * 4,
-  // 64px
-  10: $spacer * 4.5,
-  // 72px
-  11: $spacer * 5,
-  // 80px
-  12: $spacer * 5.5,
-  // 88px
-  13: $spacer * 6,
-  // 96px
-  14: $spacer * 6.5,
-  // 104px
-  15: $spacer * 7,
-  // 112px
-  16: $spacer * 7.5,
-  // 120px
-  17: $spacer * 8,
-  // 128px
-  18: $spacer * 8.5,
-  // 136px
-  19: $spacer * 9,
-  // 144px
-  20: $spacer * 9.5,
-  // 152px
-  21: $spacer * 10,
-  // 160px
-  22: $spacer * 12,
-  // 192px
-  23: $spacer * 14,
-  // 224px
+    0: 0,
+    // 0px
+    1: $spacer * 0.25,
+    // 4px
+    2: $spacer * 0.5,
+    // 8px
+    3: $spacer * 1,
+    // 16px
+    4: $spacer * 1.5,
+    // 24px
+    5: $spacer * 2,
+    // 32px
+    6: $spacer * 2.5,
+    // 40px
+    7: $spacer * 3,
+    // 48px
+    8: $spacer * 3.5,
+    // 56px
+    9: $spacer * 4,
+    // 64px
+    10: $spacer * 4.5,
+    // 72px
+    11: $spacer * 5,
+    // 80px
+    12: $spacer * 5.5,
+    // 88px
+    13: $spacer * 6,
+    // 96px
+    14: $spacer * 6.5,
+    // 104px
+    15: $spacer * 7,
+    // 112px
+    16: $spacer * 7.5,
+    // 120px
+    17: $spacer * 8,
+    // 128px
+    18: $spacer * 8.5,
+    // 136px
+    19: $spacer * 9,
+    // 144px
+    20: $spacer * 9.5,
+    // 152px
+    21: $spacer * 10,
+    // 160px
+    22: $spacer * 12,
+    // 192px
+    23: $spacer * 14,
+    // 224px
 ) !default;
 // scss-docs-end spacer-variables-maps
 
@@ -472,7 +472,7 @@ $position-values: (
 
 $body-text-align: null !default;
 $body-color: $gray-200 !default;
-$body-bg: $gray-900 !default;
+$body-bg: $black !default;
 
 $body-secondary-color: rgba($body-color, 0.75) !default;
 $body-secondary-bg: $gray-200 !default;
@@ -1211,7 +1211,7 @@ $nav-underline-link-active-color: var(--#{$prefix}emphasis-color) !default;
 // Navbar
 
 // scss-docs-start navbar-variables
-$navbar-padding-y: $spacer * 0.5 !default;
+$navbar-padding-y: $spacer * 0.8 !default;
 $navbar-padding-x: null !default;
 
 $navbar-nav-link-padding-x: 0.5rem !default;
