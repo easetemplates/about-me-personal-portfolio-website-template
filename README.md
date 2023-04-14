@@ -1,25 +1,21 @@
 
 
-# [Dash UI - Bootstrap 5 Theme](https://codescandy.com/dashui/index.html) [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fcodescandy%2FDash-UI)](https://twitter.com/intent/tweet?text=Dash%20-%20UI%20Bootstrap%205%20Theme&url=https%3A%2F%2Fgithub.com%2Fcodescandy%2FDash-UI&via=getcodescandy)
+# [AboutMe - Personal Website Template](https://easetemplate.com/)
 
+![AboutMe - Personal Website Template](https://user-images.githubusercontent.com/30169935/231987845-1895e4ac-b07d-4d1f-b2b1-f9731b5adcc4.jpg)
 
+Simple personal website templates free, About me is the free personal website bootstrap template. Built with Bootstrap and vite.js.
+AboutMe is a free and open source for your any purpose of use. 
 
-<a href="https://codescandy.com/dashui/index.html">
- <img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/hero-img.jpg" alt="Dash UI Bootstrap 5 Theme"/>
-</a>
-
-
-about-me-personal-portfolio-website-template is a Bootstrap 5 personal & portfolio Theme. about-me-personal-portfolio-website-template is a free and open source components and templates fully coded with Bootstrap 5.
-
-[about-me-personal-portfolio-website-template](https://dashui.codescandy.com/)
+[About ME](https://easetemplate.com/)
 
 ## Workflow
 
 This product is built using the following widely used technologies:
 
-- Most popular CSS Framework Bootstrap 5
-- Productive workflow tool vite
-
+- Most popular CSS Framework [Bootstrap 5](https://getbootstrap.com/)
+- Productive workflow tool [ViteJs](https://vitejs.dev/)
+ 
 
 ## Table of Contents
 
@@ -60,7 +56,7 @@ npm run build
 
 
 ## Documentation
-The documentation for Dash UI is provide on our [website](https://codescandy.com/dashui/docs/gulp.html).
+
 
 
 
@@ -69,7 +65,7 @@ Within the download you'll find the following directories and files:
 
 ```
 
-Dash UI Bootstrap 5 Theme
+AboutMe Personal Website Template
 .
 ├── src
     │   ├── images
@@ -87,14 +83,7 @@ Dash UI Bootstrap 5 Theme
 ```
 
 
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/chrome.png" width="64" height="64"> <img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/firefox.png" width="64" height="64"> <img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/edge.png" width="64" height="64"> <img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/safari.png" width="64" height="64"> <img src="https://github.com/codescandy/Dash-UI/blob/main/src/assets/images/marketing/opera.png" width="64" height="64">
-
-
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
-[Support](https://github.com/codescandy/Dash-UI/discussions)
+If you have questions or need help integrating the product please [contact us](https://easetemplate.com/).
+[Support](https://easetemplate.com/)
