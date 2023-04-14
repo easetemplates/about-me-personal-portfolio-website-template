@@ -1,7 +1,7 @@
 {
   "name": "about-me-personal-portfolio-website-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal Website Template",
   "main": "index.js",
   "scripts": {
     "start": "vite",
@@ -23,7 +23,9 @@
     "html",
     "responsive",
     "theme",
-    "template"
+    "template",
+    "personal website",
+    "bootstrap 5"
   ],
   "author": "Ease Template",
   "license": "ISC"
