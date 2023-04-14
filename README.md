@@ -1,5 +1,3 @@
-
-
 # [AboutMe - Personal Website Template](https://easetemplate.com/)
 
 ![AboutMe - Personal Website Template](https://user-images.githubusercontent.com/30169935/231987845-1895e4ac-b07d-4d1f-b2b1-f9731b5adcc4.jpg)
@@ -29,12 +27,15 @@ This product is built using the following widely used technologies:
 ## Quick start
 
 1. Download from clone this repository
-2. Download the project's zip
-3. Make sure you have Node locally installed.
-
 
 ```
-npm install vite
+$ git clone https://github.com/easetemplates/about-me-personal-portfolio-website-template.git
+```
+
+2. Make sure you have Node locally installed. then <code>npm install</code>.
+
+```
+npm install
 ```
 
 5. After installing Vite, run npm install in the main `about-me-personal-portfolio-website-template/` folder to download all the project dependencies. You'll find them in the `node_modules/` folder.
