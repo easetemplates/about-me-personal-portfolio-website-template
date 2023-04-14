@@ -1,11 +1,11 @@
-# [AboutMe - Personal Website Template](https://easetemplate.com/)
+# [AboutMe - Personal Website Template](https://preview.easetemplate.com/aboutme/)
 
 ![AboutMe - Personal Website Template](https://user-images.githubusercontent.com/30169935/231987845-1895e4ac-b07d-4d1f-b2b1-f9731b5adcc4.jpg)
 
 Simple personal website templates free, About me is the free personal website bootstrap template. Built with Bootstrap and vite.js.
-AboutMe is a free and open source for your any purpose of use. 
+AboutMe is a free and open source for your any purpose of use. Curated By [Easetemplate](https://easetemplate.com/)
 
-[About ME](https://easetemplate.com/)
+[About ME](https://preview.easetemplate.com/aboutme/)
 
 ## Workflow
 
@@ -58,8 +58,6 @@ npm run preview
 ```
 
 ## Documentation
-
-
 
 
 ## File Structure
