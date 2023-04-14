@@ -18,8 +18,8 @@ Dash-UI is a Bootstrap 5 Admin & Dashboard Theme. Dash UI Kit a free and open so
 This product is built using the following widely used technologies:
 
 - Most popular CSS Framework Bootstrap 5
-- Productive workflow tool Gulp
-- Awesome CSS preprocessor Sass
+- Productive workflow tool vite
+
 
 ## Table of Contents
 
@@ -35,27 +35,27 @@ This product is built using the following widely used technologies:
 1. Download from clone this repository
 2. Download the project's zip
 3. Make sure you have Node locally installed.
-4. Download Gulp Command Line Interface to be able to use gulp in your Terminal.
+
 
 ```
-npm install gulp-cli -g
+npm install vite
 ```
 
-5. After installing Gulp, run npm install in the main `dash-ui/` folder to download all the project dependencies. You'll find them in the `node_modules/` folder.
+5. After installing Vite, run npm install in the main `about-me-personal-portfolio-website-template/` folder to download all the project dependencies. You'll find them in the `node_modules/` folder.
 
 ```
 npm install
 ```
 
-6. Run gulp in the `dash-ui/` folder to serve the project files using BrowserSync. Running gulp will compile the theme and open `/index.html` in your main browser.
+6. Run npm start in the `about-me-personal-portfolio-website-template/` folder to serve the project files using BrowserSync. Running vite will compile the theme and open `/index.html` in your main browser.
 
 ```
-gulp
+npm start
 ```
 7. Generates a /dist directory with all the production files.
 
 ```
-gulp build
+npm run build
 ```
 
 
@@ -72,34 +72,14 @@ Within the download you'll find the following directories and files:
 Dash UI Bootstrap 5 Theme
 .
 ├── src
-    ├── assets
-    |   ├── css
-    │   ├── fonts
+
     │   ├── images
     |   ├── js
     │   ├── scss
     |       ├── theme
     |       ├── theme.scss
-    ├── pages
-    │   ├── 404-error.html
-    │   ├── billing.html
-    │   ├── forget-password.html
-    │   ├── layout.html
-    │   ├── pricing.html
-    │   ├── profile.html
-    │   ├── settings.html
-    │   ├── sign-in.html
-    │   ├── sign-up.html
-    │   └── tables.html
-    ├── partials
-    │   ├── doc-navbar.html
-    │   ├── docs-sidenav.html
-    │   ├── head.html
-    │   ├── header.html
-    │   ├── navbar-vertical.html         
-    │   └── scripts.html
     ├── index.html
-    ├── gulpfile.js
+    ├── vite.config.js
     ├── package-lock.json
     ├── package.json
     ├── README.md
@@ -119,14 +99,3 @@ At present, we officially aim to support the last two versions of the following 
 
 If you have questions or need help integrating the product please [contact us](https://codescandy.com/contact-us/).
 [Support](https://github.com/codescandy/Dash-UI/discussions)
-
-## Upgrade to PRO
-
-Get more power with [Dash UI pro](https://dashui.codescandy.com/) featuring bunch of UI components, forms, tables, charts, pages, and icons.
-
-
-| Free Version        | [DashUI PRO]
-|---------------------|-------------------------------------------- |
-| 11 Demo Pages       | 100+ pages                                |
-| Includine Docs      | App pages                                           |
-| Libraries & Plugins | Dark / Light Mode                                            |
