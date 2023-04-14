@@ -29,32 +29,33 @@ This product is built using the following widely used technologies:
 1. Download from clone this repository
 
 ```
-$ git clone https://github.com/easetemplates/about-me-personal-portfolio-website-template.git
+git clone https://github.com/easetemplates/about-me-personal-portfolio-website-template.git
 ```
+ 
 
-2. Make sure you have Node locally installed. then <code>npm install</code>.
-
-```
-npm install
-```
-
-5. After installing Vite, run npm install in the main `about-me-personal-portfolio-website-template/` folder to download all the project dependencies. You'll find them in the `node_modules/` folder.
+2. Now run npm install in the main `about-me-personal-portfolio-website-template/` folder to download all the project dependencies. You'll find them in the `node_modules/` folder.
 
 ```
 npm install
 ```
 
-6. Run npm start in the `about-me-personal-portfolio-website-template/` folder to serve the project files using BrowserSync. Running vite will compile the theme and open `/index.html` in your main browser.
+3. Run npm start in the `about-me-personal-portfolio-website-template/` folder to serve the project files using BrowserSync. Running vite will compile the theme and open `/index.html` in your main browser.
 
 ```
 npm start
 ```
-7. Generates a /dist directory with all the production files.
+
+4. Generates a /dist directory with all the production files.
 
 ```
 npm run build
 ```
 
+5. To run preview of `dist` folder.
+
+```
+npm run preview
+```
 
 ## Documentation
 
