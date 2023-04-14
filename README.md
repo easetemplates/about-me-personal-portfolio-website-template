@@ -72,7 +72,6 @@ Within the download you'll find the following directories and files:
 Dash UI Bootstrap 5 Theme
 .
 ├── src
-
     │   ├── images
     |   ├── js
     │   ├── scss
