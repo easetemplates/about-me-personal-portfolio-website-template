@@ -64,9 +64,8 @@ npm run preview
 Within the download you'll find the following directories and files:
 
 ```
-
 AboutMe Personal Website Template
-.
+
 ├── src
     │   ├── images
     |   ├── js
@@ -79,9 +78,7 @@ AboutMe Personal Website Template
     ├── package.json
     ├── README.md
 
-
 ```
-
 
 ## Technical Support or Questions
 
