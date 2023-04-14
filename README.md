@@ -9,9 +9,9 @@
 </a>
 
 
-Dash-UI is a Bootstrap 5 Admin & Dashboard Theme. Dash UI Kit a free and open source components and templates kit fully coded with Bootstrap 5.
+about-me-personal-portfolio-website-template is a Bootstrap 5 personal & portfolio Theme. about-me-personal-portfolio-website-template is a free and open source components and templates fully coded with Bootstrap 5.
 
-[Dash UI pro](https://dashui.codescandy.com/)
+[about-me-personal-portfolio-website-template](https://dashui.codescandy.com/)
 
 ## Workflow
 
