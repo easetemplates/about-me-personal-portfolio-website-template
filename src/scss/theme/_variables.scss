@@ -553,9 +553,11 @@ $grid-columns: 12 !default;
 $grid-gutter-width: 1.5rem !default;
 $grid-row-columns: 6 !default;
 
+$custom-grid-gutter-width: 2.5rem !default;
+
 // Container padding
 
-$container-padding-x: $grid-gutter-width !default;
+$container-padding-x: $custom-grid-gutter-width !default;
 
 // Components
 //
