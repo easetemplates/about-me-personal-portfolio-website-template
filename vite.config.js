@@ -6,6 +6,7 @@ export default defineConfig({
   root: path.resolve(__dirname, 'src'),
   build: {
     outDir: '../dist',
+    emptyOutDir: true,
     rollupOptions: {
       output: {
         chunkFileNames: 'assets/js/[name].js',
